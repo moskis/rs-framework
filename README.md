@@ -1,11 +1,6 @@
 RS Framework
 ============
 
-- **Contributors:** moskis
-- **Tags:** smilies, emoticons, smiley, pack, smilies pack, smiley pack, emoticon pack
-- **Requires at least:** 3.5
-- **Tested up to:** 3.5
-
 RS (Really Simple) Framework is an easy to deploy collection of utilities to get you started when developing a new theme.
 
 
