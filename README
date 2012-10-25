@@ -17,6 +17,12 @@ RS (Really Simple) Framework is an easy to deploy collection of utilities to get
 Currently it is in early stages of development and many features are being considered. If you have ideas you can open an issue of create a pull request.
 
 
+Credits
+-------
+
+Uses the [Options Framework](https://github.com/devinsays/options-framework-theme) by Devin Price.
+
+
 Installation
 ------------
 
